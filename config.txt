@@ -22,7 +22,7 @@ OOT3D_(USA)
 plugin\0004000000033500
 plugin\0004000000033500\ZeldaOOT3D_USA.plg
 https://github.com/Nanquitas/Zelda-Ocarina-Of-Time-3D-Plugin/blob/master/plugin/plugin/0004000000033500/ZeldaOOT3D_USA.plg?raw=true
-OOT3D_(EUR
+OOT3D_(EUR)
 plugin\0004000000033600
 plugin\0004000000033600\ZeldaOOT3D_EUR.plg
 https://github.com/Nanquitas/Zelda-Ocarina-Of-Time-3D-Plugin/blob/master/plugin/plugin/0004000000033600/ZeldaOOT3D_EUR.plg?raw=true
