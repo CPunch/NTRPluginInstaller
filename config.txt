@@ -1,12 +1,16 @@
-AC:NL (JAP)
+AC:NL_(JAP)
 plugin\0004000000086200
 plugin\0004000000086200\ACNL_MULTI_JAP.plg
 https://github.com/RyDog199/ACNL-NTR-Cheats/blob/master/plugin/plugin/0004000000086200/ACNL_MULTI_JAP.plg?raw=true
-AC:NL (USA)
+AC:NL_(USA)
 plugin\0004000000086300
 plugin\0004000000086300\ACNL_MULTI_USA.plg
 https://github.com/RyDog199/ACNL-NTR-Cheats/blob/master/plugin/plugin/0004000000086300/ACNL_MULTI_USA.plg?raw=true
-AC:NL (EUR)
+AC:NL_(EUR)
 plugin\0004000000086400
 plugin\0004000000086400\ACNL_MULTI_EUR.plg
 https://github.com/RyDog199/ACNL-NTR-Cheats/blob/master/plugin/plugin/0004000000086400/ACNL_MULTI_EUR.plg?raw=true
+MK7_(USA)
+plugin\0004000000030800
+plugin\0004000000030800\MarioKart7.plg
+https://github.com/DarkFlare69/MK7-NTR-Plugin/blob/master/MarioKart7.plg?raw=true
