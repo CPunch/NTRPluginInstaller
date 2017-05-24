@@ -26,11 +26,11 @@ OOT3D_(EUR)_(Nanquitas)
 plugin\0004000000033600
 plugin\0004000000033600\ZeldaOOT3D_EUR.plg
 https://github.com/Nanquitas/Zelda-Ocarina-Of-Time-3D-Plugin/blob/master/plugin/plugin/0004000000033600/ZeldaOOT3D_EUR.plg?raw=true
-pokeCalcNTR_PKM_MOON
+pokeCalcNTR_PKM_MOON_(zaksabeast)
 plugin\0004000000175e00
 plugin\0004000000175e00\cheat.plg
 https://www.dropbox.com/s/bt097l1m3gppfxm/cheat.plg?dl=1
-pokeCalcNTR_PKM_SUN
+pokeCalcNTR_PKM_SUN_(zaksabeast)
 plugin\0004000000164800
 plugin\0004000000164800\cheat.plg
 https://www.dropbox.com/s/bt097l1m3gppfxm/cheat.plg?dl=1
