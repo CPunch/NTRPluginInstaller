@@ -9,7 +9,7 @@ https://github.com/RyDog199/ACNL-NTR-Cheats/blob/master/ACNL_MULTI.plg?raw=true
 AC:NL_(EUR)_(RyDog)
 plugin\0004000000086400
 plugin\0004000000086400\ACNL_MULTI_EUR.plg
-https://github.com/RyDog199/ACNL-NTR-Cheats/blob/master/plugin/plugin/0004000000086400/ACNL_MULTI_EUR.plg?raw=true
+https://github.com/RyDog199/ACNL-NTR-Cheats/blob/master/ACNL_MULTI.plg?raw=true
 MK7_(USA)_(DarkFlare69)
 plugin\0004000000030800
 plugin\0004000000030800\MarioKart7.plg
