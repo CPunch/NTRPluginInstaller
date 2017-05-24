@@ -34,3 +34,11 @@ pokeCalcNTR_PKM_SUN_(zaksabeast)
 plugin\0004000000164800
 plugin\0004000000164800\cheat.plg
 https://www.dropbox.com/s/bt097l1m3gppfxm/cheat.plg?dl=1
+MHGEN_(USA)_(Nanquitas)
+plugin\0004000000187000
+plugin\0004000000187000\MonsterHunter_Gen_USA.plg
+https://www.dropbox.com/s/51u9klbb9puge3p/MonsterHunter_Gen_EUR.plg?dl=1
+MHGEN_(EUR)_(Nanquitas)
+plugin\0004000000185B00
+plugin\0004000000185B00\MonsterHunter_Gen_EUR.plg
+https://www.dropbox.com/s/51u9klbb9puge3p/MonsterHunter_Gen_EUR.plg?dl=1
