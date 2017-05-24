@@ -1,11 +1,11 @@
 AC:NL_(JPN)_(RyDog)
 plugin\0004000000086200
 plugin\0004000000086200\ACNL_MULTI_JAP.plg
-https://github.com/RyDog199/ACNL-NTR-Cheats/blob/master/plugin/plugin/0004000000086200/ACNL_MULTI_JAP.plg?raw=true
+https://github.com/RyDog199/ACNL-NTR-Cheats/blob/master/ACNL_MULTI.plg?raw=true
 AC:NL_(USA)_(RyDog)
 plugin\0004000000086300
 plugin\0004000000086300\ACNL_MULTI_USA.plg
-https://github.com/RyDog199/ACNL-NTR-Cheats/blob/master/plugin/plugin/0004000000086300/ACNL_MULTI_USA.plg?raw=true
+https://github.com/RyDog199/ACNL-NTR-Cheats/blob/master/ACNL_MULTI.plg?raw=true
 AC:NL_(EUR)_(RyDog)
 plugin\0004000000086400
 plugin\0004000000086400\ACNL_MULTI_EUR.plg
