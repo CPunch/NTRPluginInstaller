@@ -70,7 +70,3 @@ sumoCheatMenu_PKM_SUN_(O3DS)_(AnalogMan)
 plugin\0004000000164800
 plugin\0004000000164800\Sun.plg
 https://analogman151.github.io/old/Sun.plg
-MH4U_(USA)_TEST_(CPunch)
-plugin\0004000000126300
-plugin\0004000000126300\cheat.plg
-https://github.com/CPunch/NTRPluginInstaller/blob/master/MH4U_USA_TEST.plg?raw=true
